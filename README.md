@@ -78,3 +78,7 @@ C:\work>now /?
                 #endregion 引数判別
 ```
 
+# HelpEvent
+イベントハンドラの利用サンプル
+
+
