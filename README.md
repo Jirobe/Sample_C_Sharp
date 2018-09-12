@@ -40,7 +40,7 @@ Javaライクなもの
 ```
 
 # Now
-バッチ処理のサンプル、ひな形
+バッチ処理のサンプル  
 引数に対してLinq使用サンプル
 
 実行例
@@ -77,4 +77,8 @@ C:\work>now /?
                 bool isLoop = args.Length > nOptIndex + 1 && query.Count() > 0;
                 #endregion 引数判別
 ```
+
+# HelpEvent
+イベントハンドラの利用サンプル
+
 
