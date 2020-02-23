@@ -22,9 +22,9 @@ namespace TaskSample
 
         private async Task<bool> Test01()
         {
-            Label01.Text = "最後の実行が関数Test01になってしまった";
+            //Label01.Text = "最後の実行が関数Test01になってしまった";
 
-            //await Write();
+            await Write();
             return true;
         }
 
